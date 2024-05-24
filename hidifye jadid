@@ -1,4 +1,5 @@
-"route": {                                                      "geoip": {
+"route": {                                                     
+"geoip": {
                 "path": "geo-assets\\sagernet-sing-geoip-geoip.db"
                 },
                 "geosite": {
